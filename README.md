@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![image](![git](https://user-images.githubusercontent.com/62960992/219521377-148a34a6-95fa-403f-b56e-78f2a7144bc7.jpeg))
 
 ## **📫 Connect with Me!**
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-[![GitHub](https://jhanvik.github.io/)]
-[![Linkedin](https://www.linkedin.com/in/jhanvikasundra/)] 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+[![GitHub Badge](https://jhanvik.github.io/)]
+[![Linkedin Badge](https://www.linkedin.com/in/jhanvikasundra/)] 
 [![Mail Badge](https://img.shields.io/badge/-jhanvik99@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jhanvik99@gmail.com)
 [![Tableau Badge](https://img.shields.io/badge/-TableauProfile-E97627?style=flat&labelColor=212121&logo=tableau)](https://public.tableau.com/app/profile/jhanvi.minzal.kasundra)
 
