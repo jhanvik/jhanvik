@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 # **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height = "28px" alt="hi"> I'm Jhanvi Minzal Kasundra** 
 
-![image](![git](https://user-images.githubusercontent.com/62960992/219521377-148a34a6-95fa-403f-b56e-78f2a7144bc7.jpeg))
 
 ## **📫 Connect with Me!**
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
