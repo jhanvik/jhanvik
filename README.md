@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## **🕵️ Github Profile Stats** 
 </br>
 
-**![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jhanvik.visitor-badge)**
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jhanvik&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="jhanvik" width="400"  /></p>
