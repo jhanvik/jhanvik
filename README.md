@@ -29,22 +29,16 @@ Here are some ideas to get you started:
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](https://public.tableau.com/app/profile/jhanvi.minzal.kasundra)
 
 ## Education : 
-🎓 Master of Science (MS) in Data Science from the University at Buffalo, The State University of New York. Graduated in February 2023. 
+🎓 Master of Science (MS) in Data Science from the [University at Buffalo, The State University of NewYork](https://www.buffalo.edu). Graduated in February 2023. 
+<br>
 🌟 Bachelor of Engineering in Computer Engineering from Mumbai University. Graduated in June 2021.
 
 ##  💼 Professional Experience:
-Research / Data Analyst, Kansas Department of Corrections (Aug 2023 - Present)
-Data Engineer, The Commons XR (May 2023 – Aug 2023)
-Data Analyst Project, Primary Care IPA (Oct 2022 – Dec 2022)
-Data Analyst, Clocky LLC (Jun 2022 - Aug 2022)
-Data Analyst, Sanskar Technolab (Dec 2020 - May 2021)
-
-
-- 🎓 Graduate with Master of Science (MS) in Data Science from [University at Buffalo, The State University of NewYork](https://www.buffalo.edu)
-- 🌍 Looking to contribute more to Data Science projects.
-- 💬 Ask me about Data Analytics, Data Science, Data Engineering, Business Intelligence Analytics and Machine Learning.
-- ⚡ Fun fact: Apart from being a Tech Geek, I love to Travel. 
-
+Research / Data Analyst, Kansas Department of Corrections (Aug 2023 - Present) <br>
+Data Engineer, The Commons XR (May 2023 – Aug 2023) <br>
+Data Analyst Project, Primary Care IPA (Oct 2022 – Dec 2022) <br>
+Data Analyst, Clocky LLC (Jun 2022 - Aug 2022) <br>
+Data Analyst, Sanskar Technolab (Dec 2020 - May 2021) <br>
 
 ## **👨‍💻 Top Technologies:**
 
