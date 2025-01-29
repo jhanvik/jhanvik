@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height = "28px" alt="hi"> I'm Jhanvi Minzal Kasundra** 
+# **Hey <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height = "28px" alt="hi"> 👋 Hi, I'm Jhanvi Kasundra! 👋** 
 
 
 ## **📫 Connect with Me!**
@@ -28,6 +28,17 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhanvik99@gmail.com)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](https://public.tableau.com/app/profile/jhanvi.minzal.kasundra)
 
+## Education : 
+🎓 Master of Science (MS) in Data Science from the University at Buffalo, The State University of New York. Graduated in February 2023. 
+🌟 Bachelor of Engineering in Computer Engineering from Mumbai University. Graduated in June 2021.
+
+## ** 💼 Professional Experience:**
+Research / Data Analyst, Kansas Department of Corrections (Aug 2023 - Present)
+Data Engineer, The Commons XR (May 2023 – Aug 2023)
+Data Analyst Project, Primary Care IPA (Oct 2022 – Dec 2022)
+Data Analyst, Clocky LLC (Jun 2022 - Aug 2022)
+Data Analyst, Sanskar Technolab (Dec 2020 - May 2021)
+
 
 - 🎓 Graduate with Master of Science (MS) in Data Science from [University at Buffalo, The State University of NewYork](https://www.buffalo.edu)
 - 🌍 Looking to contribute more to Data Science projects.
@@ -35,7 +46,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Apart from being a Tech Geek, I love to Travel. 
 
 
-## **👨‍💻 Top Technologies**
+## **👨‍💻 Top Technologies:**
 
 <!-- TODO: Make technologies links take you to repositories -->
 
@@ -66,10 +77,18 @@ Here are some ideas to get you started:
 ##  Machine Learning 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+
+## ** 🚀 Achievements:**
+National-Level Smart India Hackathon 2020: Achieved first place for developing a bilingual mobile app with a predictive model achieving 94% accuracy in crop yield estimation.
+Publications: Authored a research paper on adaptive recommendation systems published in the International Journal of Research and Analytical Reviews, Volume 8 Issue.
+
+## **🔍 About Me:**
+Passionate about contributing to Data Science projects.
+Experienced in data analytics, data science, data engineering, business intelligence analytics, and machine learning.
+Outside of tech, I love travelling and exploring new places.
+
 ## **🕵️ Github Profile Stats** 
 </br>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jhanvik&layout=compact&theme=radical&show_icons=true&locale=en" 
 	alt="jhanvik" width="400"  /></p>
