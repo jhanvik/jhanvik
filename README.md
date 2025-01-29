@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 ## **📫 Connect with Me!**
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jhanvik.github.io/JhanviKasundra.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-JhanviKasundra-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhanvikasundra/) 
-[![Mail Badge](https://img.shields.io/badge/-jhanvik99@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jhanvikasundra@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhanvikasundra/) 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jhanvikasundra@outlook.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhanvik99@gmail.com)
 [![Tableau Badge](https://img.shields.io/badge/-TableauProfile-E97627?style=flat&labelColor=212121&logo=tableau)](https://public.tableau.com/app/profile/jhanvi.minzal.kasundra)
 
 
-- 🎓 Recent graduate with Master of Science (MS) in Data Science from [University at Buffalo, The State University of NewYork](https://www.buffalo.edu)
+- 🎓 Graduate with Master of Science (MS) in Data Science from [University at Buffalo, The State University of NewYork](https://www.buffalo.edu)
 - 🌍 Looking to contribute more to Data Science projects.
 - 💬 Ask me about Data Analytics, Data Science, Data Engineering, Business Intelligence Analytics and Machine Learning.
 - ⚡ Fun fact: Apart from being a Tech Geek, I love to Travel. 
